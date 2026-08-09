@@ -15,7 +15,7 @@ It's to leave a visible trail of how my Python improves.
 
 | Day | Focus | Status |
 |:---:|---|:---:|
-| 01 | Python Basics | `NEXT` |
+| 01 | Python Basics | `DONE` |
 | 02 | — | `LOCKED` |
 | 03 | — | `LOCKED` |
 | ... | ... | ... |
@@ -31,4 +31,4 @@ No copy-paste solutions without understanding what the code does.
 
 ---
 
-`0 / 21 COMPLETE`
+`1 / 21 COMPLETE`
