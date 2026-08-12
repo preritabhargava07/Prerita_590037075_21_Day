@@ -2,7 +2,7 @@
 
 ### 21 days of learning Python by actually writing it.
 
-`DAY 00` ─────────────────────────────── `START`
+`DAY 02` ─────────────────────────────── `START`
 
 This repository documents my 21-day Python coding challenge — one day, one set of problems, one commit at a time.
 
@@ -16,8 +16,8 @@ It's to leave a visible trail of how my Python improves.
 | Day | Focus | Status |
 |:---:|---|:---:|
 | 01 | Python Basics | `DONE` |
-| 02 | — | `LOCKED` |
-| 03 | — | `LOCKED` |
+| 02 | Strings       |  DONE  |
+| 03 | — | `NEXT` |
 | ... | ... | ... |
 | 21 | — | `LOCKED` |
 
@@ -31,4 +31,4 @@ No copy-paste solutions without understanding what the code does.
 
 ---
 
-`1 / 21 COMPLETE`
+`2 / 21 COMPLETE`
