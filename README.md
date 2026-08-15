@@ -16,7 +16,7 @@ It's to leave a visible trail of how my Python improves.
 | Day | Focus | Status |
 |:---:|---|:---:|
 | 01 | Python Basics | `DONE` |
-| 02 | Strings       |  DONE  |
+| 02 | Strings       | `DONE`  |
 | 03 | — | `NEXT` |
 | ... | ... | ... |
 | 21 | — | `LOCKED` |
